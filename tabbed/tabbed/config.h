@@ -1,7 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 
 /* appearance */
-static const char font[]        = "Blex Mono Nerd Font:size=9";
+static const char font[]        = "JetBrains Mono:size=10";
 static const char* normbgcolor  = "#65b2ff";
 static const char* normfgcolor  = "#100e23";
 static const char* selbgcolor   = "#91ddff";
